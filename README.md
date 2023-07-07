@@ -1,15 +1,9 @@
-# 🚀 Welcome to your new awesome project!
+# 🚀 Test project for AltCraft
 
-This project has been created using **webpack-cli**, you can now run
-
-```
-npm run build
-```
-
-or
+node version 17.4.0
 
 ```
-yarn build
-```
+npm run serve  - to host local server
+npm run build:prod || dev - to bundle your application
 
-to bundle your application
+```
